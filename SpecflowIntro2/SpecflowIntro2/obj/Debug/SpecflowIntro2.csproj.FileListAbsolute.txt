@@ -1,0 +1,11 @@
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\obj\Debug\SpecflowIntro2.csproj.CoreCompileInputs.cache
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\SpecflowIntro2.exe.config
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\SpecflowIntro2.exe
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\SpecflowIntro2.pdb
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\nunit.framework.dll
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\bin\Debug\nunit.framework.xml
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\obj\Debug\SpecflowIntro2.csproj.CopyComplete
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\obj\Debug\SpecflowIntro2.exe
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\obj\Debug\SpecflowIntro2.pdb
+C:\Users\Sbarrows\Documents\Visual Studio 2017\Projects\SpecflowIntro2\SpecflowIntro2\obj\Debug\SpecflowIntro2.csprojResolveAssemblyReference.cache
